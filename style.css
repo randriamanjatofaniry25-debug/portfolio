@@ -1,0 +1,91 @@
+body{
+    background-image: url(faniry.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+    
+}    
+img{
+    border-radius: 50%;
+}
+.comp{
+    font-family: cambria;
+    font-size: 25px;
+}
+.boite{
+    display: flex;
+}
+h1{
+    margin-left: 80px;
+    color: rgb(199, 208, 218);
+    font-family:cambria ;
+    font-size: 45px; 
+}
+.boite1{
+    margin-top: 50px;
+    text-align: center;
+    width: 500px;
+    height: 200PX;
+    background-color: rgb(1, 1, 24);
+    margin-left: 200px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    color: rgb(88, 132, 212);
+    
+}
+.boite3{
+    display: flex;
+
+
+}
+.photo{
+    margin-left: 80px;
+}
+
+.box{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(79, 107, 107);
+    border-radius: 25px;
+    margin: 20px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+.box:hover{
+    background-color: rgb(110, 163, 184);
+    transform: scale(1.4);
+}
+
+
+a{
+    color: bisque;
+    text-decoration: none;
+}
+
+.box1{
+    color: rgb(157, 206, 44);
+}
+.prog1{
+    margin-left: 10px;
+    color: rgb(77, 17, 17);
+  
+}
+.prog2{
+    margin-left: 35px;
+    color: rgb(red, green, blue)
+}
+.prog3{
+    margin-left: 17px;
+    color: beiger;
+}
+.liste{
+    color: rgb(241, 198, 220);
+    font-size: 30px;
+}
